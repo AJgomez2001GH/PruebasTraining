@@ -6,3 +6,15 @@ commit 4
 commit 5
 modificación desde rama1
 commit 6
+commit 7
+
+
+
+
+
+
+
+
+
+
+
